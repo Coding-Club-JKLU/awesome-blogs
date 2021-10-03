@@ -1,4 +1,3 @@
-
 ---
 title: "Jarvis Virtual Assistant Project for Beginners"
 author: "Devanapally Charan Tej"
