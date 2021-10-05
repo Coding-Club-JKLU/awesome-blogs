@@ -3,7 +3,7 @@ title: "Add Features to your Jarvis"
 author: "Devanapally Charan Tej"
 github: "charan-143"
 date: "2021-10-03"
-canonicalUrl: "https://charantej.hashnode.dev/jarvis-virtual-assistant-project-for-beginners"
+canonicalUrl: "https://charantej.hashnode.dev/add-features-to-your-jarvis"
 ---
 
 ![Add Features to your Jarvis](https://charantej.hashnode.dev/_next/image?url=https%3A%2F%2Fcdn.hashnode.com%2Fres%2Fhashnode%2Fimage%2Fupload%2Fv1632231560269%2FoDH-6T6ie.jpeg%3Fw%3D1600%26h%3D840%26fit%3Dcrop%26crop%3Dentropy%26auto%3Dcompress%2Cformat%26format%3Dwebp&w=1920&q=75)
